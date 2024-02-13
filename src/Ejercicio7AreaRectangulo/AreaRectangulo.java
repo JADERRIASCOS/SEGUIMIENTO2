@@ -15,4 +15,4 @@ public class AreaRectangulo {
     public void calcularArea(){
         System.out.println("El área del rectangulo es " + base*alruta +"cm cuadrados");
     }
-}
+} 
